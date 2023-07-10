@@ -3,7 +3,7 @@ The dataset has been taken from Kaggle, the link is provided below;
 https://www.kaggle.com/datasets/shekpaul/global-superstore?select=Global+Superstore.xls 
 
 # Power BI Data Visualization Project insight:
-OBJECTIVE: To analyse the performance of an ecommerce platform. 
+OBJECTIVE: To analyse the sales performance of an ecommerce platform. 
 Types of analysis: 
 1.	Product category and Segment wise analysis. {Year wise Sales increase from 2.26 mil to 4.30 mil}
 2.	Region Wise sales analysis. 
